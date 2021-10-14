@@ -17,7 +17,7 @@ O projeto desenvolvido pode ser acessado por [aqui](https://potterflix.netlify.a
 
 ## No browser:
 <div align="center">
-  <img alt="NextLevelWeek" width="400"title="#NextLevelWeek" src="./assets/web-1.png" />
+  <img alt="" width="400"title="" src="/resources/mobile.png" />
 </div>
 
 
