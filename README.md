@@ -4,10 +4,28 @@
 ## Mais sobre o repositório...
 O site desenvolvido foi baseado no projeto Recriando a Interface do Netflix disponibilizado na plataforma da [DIO](https://web.digitalinnovation.one/home). Optei por recriar com os filmes realcionados ao universo de Harry Potter e tentei fazer a estilização de maneira que lembrasse aos filmes.
 
+## Link
+
+O projeto desenvolvido pode ser acessado por [aqui](https://potterflix.netlify.app).
+
+## Em dispositivos móveis:
+
+
+<div align="center">
+  <img alt="Visualização em mobile sem valores preenchidos" src="/resources/mobile.png" width="200px">
+</div>
+
+## No browser:
+<div align="center">
+  <img alt="NextLevelWeek" width="400"title="#NextLevelWeek" src="./assets/web-1.png" />
+</div>
+
+
 ## Tecnologias e ferramentas utilizadas
 
  - HTML5
  - CSS3
+ - [OwlCarouse](https://owlcarousel2.github.io/OwlCarousel2/)
 
 ## Autor
 ---
